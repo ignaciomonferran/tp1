@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+.conoceOradores{
+  padding: 30px 140px;
+}
+
+.conoceOradores p {
+  text-align: left  ;
+}
+
+.conoceOradores .card {
+  margin: 20px;
+}
+
+.conviertete{
+  padding: 60px 60px;
+  text-align: center;
+  justify-content: center;
+}
+.conviertete p{
+  text-align: center  ;
+}
+
+
+.card-img-overlay{
+  text-align: right;
+  margin: 350px 30px 190px 90px;
+}
+
+.card-text {
+  font-size: 13px  ;
+  text-align: justify;
+}
+
+.card-text2 {
+  font-size: 13px  ;
+  text-align: right;
+  vertical-align: center
+}
+
+footer{
+  background-color: rgb(27, 60, 77);
+  justify-content: space-between;
+  font-size: 16px;
+}
+footer ul{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+footer li{
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+}
+footer h5{
+  color: honeydew;
+}
+.btn-success{
+  background-color: rgb(157, 200, 62);
+  text-align: center  ;
+}
+  
